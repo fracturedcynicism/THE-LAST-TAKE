@@ -3,7 +3,7 @@
     "title": "THE LAST TAKE",
     "subtitle": "Fractured Cynicism",
     "tagline": "psy horror action comedy drama",
-    "badge": "LABEL — Archive",
+    "badge": "SHort story",
     "synopsis": "",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
@@ -11,19 +11,11 @@
   "books": [
     {
       "id": 1,
-      "slug": "book-one",
-      "title": "Book One Title",
-      "subtitle": "A subtitle or epigraph",
+      "slug": "THE LAST TAKE",
+      "title": "THE LAST TAKE",
+      "subtitle": "Short story",
       "file": "books/THE LAST TAKE.txt",
-      "setting": ""
-    },
-    {
-      "id": 2,
-      "slug": "book-two",
-      "title": "Book Two Title",
-      "subtitle": "A subtitle or epigraph",
-      "file": "books/book-two.txt",
-      "setting": "Location — time period"
+      "setting": "Present day"
     }
   ]
 }
